@@ -6,7 +6,7 @@ Création du projet expanding cards en HTML5, CSS3 et JavaScript. Les cartes s'�
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/expanding_cards/
 
 ## Projet développé avec
 

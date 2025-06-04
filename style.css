@@ -86,3 +86,20 @@ body {
     opacity: 1;
     transition: opacity 0.3s ease-in-out 0.4s;
 }
+
+/**** Responsive design version mobile ****/
+
+@media screen and (max-width: 572px) {
+    .container {
+        width: 100%;
+    }
+
+    .card.active {
+        flex: 4;
+    }
+
+    .four,
+    .five {
+        display: none;
+    }
+}

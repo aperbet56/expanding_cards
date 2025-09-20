@@ -1,5 +1,7 @@
 ## EXPANDING CARDS
 
+![Design preview for the project](./img/banner.png)
+
 ## Le challenge
 
 Création du projet expanding cards en HTML5, CSS3 et JavaScript. Les cartes s'étirent au clic de la souris.
